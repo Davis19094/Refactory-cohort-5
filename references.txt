@@ -1,0 +1,3 @@
+If you’re a designer, this phrase is everywhere. Known as “filler text” or “Greek copy”, people use it to simulate the appearance of whatever text will ultimately be used in a design. This way, a designer doesn’t have to wait for the text to be written to format it, and they and the client aren’t distracted from the graphical or interactive elements of the design by reading the copy. Because nobody would mistake it for their native language, Lorem Ipsum is also less likely than other filler text to be mistaken for final copy and published by accident.
+
+ .
